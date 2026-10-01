@@ -1,0 +1,51 @@
+id,author,title,publishYear,copies
+1,Jókai Mór,Az arany ember,1872,12
+2,Jókai Mór,A kőszívű ember fiai,1869,8
+3,Mikszáth Kálmán,Szent Péter esernyője,1895,10
+4,Mikszáth Kálmán,Beszterce ostroma,1894,7
+5,Móricz Zsigmond,Légy jó mindhalálig,1920,15
+6,Móricz Zsigmond,Rokonok,1932,9
+7,Gárdonyi Géza,Egri csillagok,1901,20
+8,Gárdonyi Géza,A láthatatlan ember,1902,6
+9,Kosztolányi Dezső,Édes Anna,1926,11
+10,Kosztolányi Dezső,Pacsirta,1924,5
+11,George Orwell,1984,1949,14
+12,George Orwell,Animal Farm,1945,13
+13,Aldous Huxley,Brave New World,1932,7
+14,Ray Bradbury,Fahrenheit 451,1953,10
+15,J.R.R. Tolkien,The Hobbit,1937,18
+16,J.R.R. Tolkien,The Fellowship of the Ring,1954,12
+17,J.R.R. Tolkien,The Two Towers,1954,11
+18,J.R.R. Tolkien,The Return of the King,1955,11
+19,J.K. Rowling,Harry Potter and the Philosopher's Stone,1997,25
+20,J.K. Rowling,Harry Potter and the Chamber of Secrets,1998,22
+21,J.K. Rowling,Harry Potter and the Prisoner of Azkaban,1999,20
+22,J.K. Rowling,Harry Potter and the Goblet of Fire,2000,18
+23,Stephen King,The Shining,1977,9
+24,Stephen King,It,1986,8
+25,Stephen King,Misery,1987,6
+26,Dan Brown,The Da Vinci Code,2003,17
+27,Dan Brown,Angels & Demons,2000,14
+28,Agatha Christie,Murder on the Orient Express,1934,12
+29,Agatha Christie,Death on the Nile,1937,10
+30,Arthur Conan Doyle,A Study in Scarlet,1887,9
+31,Arthur Conan Doyle,The Hound of the Baskervilles,1902,11
+32,Ernest Hemingway,The Old Man and the Sea,1952,8
+33,F. Scott Fitzgerald,The Great Gatsby,1925,13
+34,Harper Lee,To Kill a Mockingbird,1960,15
+35,John Steinbeck,Of Mice and Men,1937,10
+36,Margaret Atwood,The Handmaid's Tale,1985,7
+37,Suzanne Collins,The Hunger Games,2008,16
+38,Suzanne Collins,Catching Fire,2009,15
+39,Suzanne Collins,Mockingjay,2010,14
+40,Paulo Coelho,The Alchemist,1988,19
+41,Victor Hugo,Les Misérables,1862,6
+42,Alexandre Dumas,The Count of Monte Cristo,1844,8
+43,Bram Stoker,Dracula,1897,10
+44,Mary Shelley,Frankenstein,1818,9
+45,Jules Verne,Twenty Thousand Leagues Under the Seas,1870,7
+46,Jules Verne,Around the World in Eighty Days,1873,8
+47,Leo Tolstoy,War and Peace,1869,5
+48,Fyodor Dostoevsky,Crime and Punishment,1866,6
+49,Jane Austen,Pride and Prejudice,1813,12
+50,Charlotte Brontë,Jane Eyre,1847,9
